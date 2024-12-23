@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="enter_participant_name">Enter participant name</string>
+    <string name="add">Add</string>
+    <string name="assign_secret_santas">Assign Secret Santas</string>
+    <string name="delete">Delete</string>
+    <string name="santa">🎅</string>
+</resources>
